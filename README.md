@@ -1,0 +1,1 @@
+This repository demonstrates two uncommon but significant SQL bugs: incorrect NULL value handling and data type mismatches. The `bug.sql` file contains SQL queries that exhibit these problems, while `bugSolution.sql` provides corrected versions with explanations.
